@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Im Fresh
+  ☆
 </h1>
 
 <h3 align="center">Meteorology and Roblox Scripts</h3>

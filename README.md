@@ -1,7 +1,7 @@
-<div align="center">
+[<div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&color=5b2cff&height=120&section=footer&animation=twinkling" width="100%"/>
 
-</div>
+</div>](https://capsule-render.vercel.app/api?type=waving&height=150&color=1405f0&textBg=false)
 
 
 Im Fresh
@@ -19,4 +19,4 @@ Meteorology and Roblox Scripts
 <p align="left"> <a href="https://www.github.com/Freshwaffle" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/911074171285536809" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5b2cff&height=120&section=footer&animation=twinkling" width="100%"/>
+https://capsule-render.vercel.app/api?type=waving&height=150&color=1405f0&textBg=false&section=footer

@@ -20,7 +20,7 @@
   </a>
 </p>
 
-                                           ### Socials
+### Socials
 <p align="center">
   <a href="https://www.github.com/Freshwaffle" target="_blank" rel="noreferrer">
     <picture>

@@ -6,7 +6,7 @@
   ☆
 </h1>
 
-<h3 align="center">Meteorology and Roblox Scripts</h3>
+<h3 align="center">Meteorology | Reverse Engineer </h3>
 
 <p align="center">
   <a href="https://lua.org/" target="_blank" rel="noreferrer">

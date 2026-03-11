@@ -37,7 +37,7 @@
     </picture>
   </a>
 </p>
-
+Make sure to check out https://github.com/diddenbludden/babybound 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1405f0&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=twinkling" alt="Footer" width="100%"/>
 </div>
